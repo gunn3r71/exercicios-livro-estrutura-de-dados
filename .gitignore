@@ -6,9 +6,9 @@
 *.sln.docstates
 
 # Build results
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+Arrays/[Bb]in/
+Arrays/[Oo]bj/
+Arrays/[Ll]og/
 *.log
 
 # NuGet
@@ -39,11 +39,11 @@ Thumbs.db
 *.mdb
 
 # Test results
-TestResults/
+Arrays/TestResults/
 *.trx
 *.coverage
 *.coveragexml
 
 # Publish
-publish/
-out/
+Arrays/publish/
+Arrays/out/
