@@ -1,0 +1,15 @@
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\bin\Debug\net8.0\Arrays.exe
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\bin\Debug\net8.0\Arrays.deps.json
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\bin\Debug\net8.0\Arrays.dll
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\bin\Debug\net8.0\Arrays.pdb
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.dll
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.pdb
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+c:\Users\lucas\source\repos\exercicios-livro-estrutura-de-dados\Arrays\obj\Debug\net8.0\ref\Arrays.dll
